@@ -85,7 +85,7 @@ Parker Burns  - [phburns](https://github.com/phburns) - phburns@gus.pittstate.ed
 
 Grant Ledbetter  - [psutinboy](https://github.com/psutinboy) - gledbetter@gus.pittstate.edu
 
-Project Link: [https://github.com/psutinboy/CS400-Final-Project](https://github.com/psutinboy/CS400-Final-Project)
+> Project Link: [https://github.com/psutinboy/CS400-Final-Project](https://github.com/psutinboy/CS400-Final-Project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

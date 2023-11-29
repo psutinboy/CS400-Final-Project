@@ -27,7 +27,7 @@ Destination sortability by:
 1. Price.
 2. Popularity.
 
-[![iTravel Logo][itravel-logo]](https://example.com)
+[![iTravel Logo][itravel-logo]](/images/logo.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

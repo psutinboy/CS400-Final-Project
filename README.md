@@ -26,7 +26,7 @@
   <a href="https://github.com/psutinboy/cs400-final-project">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
+</div>
 Travel web application that helps plan trips for travel destinations for inexperienced vacationers or people that want to know what is best in the area.
 Destination sortability by:
 1. Price.

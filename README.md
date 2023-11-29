@@ -86,7 +86,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Alba Lozano - alozanodavila@gus.pittstate.edu
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 

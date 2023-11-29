@@ -81,9 +81,9 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 Alba Lozano - [aloda33](https://github.com/aloda33) - alozanodavila@gus.pittstate.edu
 
-Your Name  - email@email_client.com
+Parker Burns  - [phburns](https://github.com/phburns) - phburns@gus.pittstate.edu
 
-Your Name  - email@email_client.com
+Grant Ledbetter  - [psutinboy](https://github.com/psutinboy) - gledbetter@gus.pittstate.edu
 
 Project Link: [https://github.com/psutinboy/CS400-Final-Project](https://github.com/psutinboy/CS400-Final-Project)
 

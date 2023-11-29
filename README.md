@@ -26,6 +26,7 @@ Travel web application that helps plan trips for travel destinations for inexper
 Destination sortability by:
 1. Price.
 2. Popularity.
+
 [![iTravel Logo][itravel-logo]](https://example.com)
 
 

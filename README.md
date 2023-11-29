@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/psutinboy/cs400-final-project">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="150" height="100">
   </a>
 </div>
 Travel web application that helps plan trips for travel destinations for inexperienced vacationers or people that want to know what is best in the area.

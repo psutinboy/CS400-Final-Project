@@ -65,12 +65,11 @@ Can be used in both web browser and mobile browser.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [ ] Select APIs.
+- [ ] Add html.
+- [ ] Style with bootstrap.
+- [ ] Code javascript.
+      - [ ] Test run.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

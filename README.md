@@ -30,6 +30,7 @@
 ## About The Project
 
 Travel web application that helps plan trips for travel destinations for inexperienced vacationers or people that want to know what is best in the area.
+
 Destination sortability by:
 1. Price.
 2. Popularity.

@@ -22,12 +22,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
+  <a href="https://github.com/psutinboy/cs400-final-project">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
 Travel web application that helps plan trips for travel destinations for inexperienced vacationers or people that want to know what is best in the area.
 Destination sortability by:
 1. Price.
 2. Popularity.
 
-[![iTravel Logo][itravel-logo]](/images/logo.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

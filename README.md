@@ -69,7 +69,7 @@ Can be used in both web browser and mobile browser.
 - [ ] Add html.
 - [ ] Style with bootstrap.
 - [ ] Code javascript.
-      - [ ] Test run.
+    - [ ] Test run.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,5 +1,12 @@
 <a name="readme-top"></a>
 # iTravel Web Application
+
+<div align="center">
+  <a href="https://github.com/psutinboy/cs400-final-project">
+    <img src="images/logo.png" alt="Logo" width="150" height="100">
+  </a>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -22,11 +29,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center">
-  <a href="https://github.com/psutinboy/cs400-final-project">
-    <img src="images/logo.png" alt="Logo" width="150" height="100">
-  </a>
-</div>
 Travel web application that helps plan trips for travel destinations for inexperienced vacationers or people that want to know what is best in the area.
 Destination sortability by:
 1. Price.

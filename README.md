@@ -22,7 +22,7 @@
     <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
-
+</br>
 
 
 <!-- ABOUT THE PROJECT -->

@@ -90,5 +90,3 @@ Grant Ledbetter  - [psutinboy](https://github.com/psutinboy) - gledbetter@gus.pi
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/psutinboy/CS400-Final-Project)
